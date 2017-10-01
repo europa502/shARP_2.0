@@ -23,28 +23,28 @@ Feel free to use the scanning methods and modes in combination that you think su
 
 ![defact](https://user-images.githubusercontent.com/26405791/31051955-5fd79682-a666-11e7-94f8-75f2016a68fa.png)
 
-**Defensive mode with Passive scanning
+**Defensive mode with Passive scanning**
 
 ![defpas](https://user-images.githubusercontent.com/26405791/31051956-5fda8126-a666-11e7-803f-f54a2e4e1c9e.png)
 
-**Offensive mode with Active scan
+**Offensive mode with Active scan**
 
 ![ofact](https://user-images.githubusercontent.com/26405791/31051958-5febc116-a666-11e7-8818-be33d589d2eb.png)
 
 ![ofact2](https://user-images.githubusercontent.com/26405791/31051962-60837c7c-a666-11e7-84fa-af22c79f8016.png)
 
-**Offensive mode with Passive scan
+**Offensive mode with Passive scan**
 
 ![ofpas](https://user-images.githubusercontent.com/26405791/31051961-607de01e-a666-11e7-8b59-9da5751815ab.png)
 
 ![ofpas2](https://user-images.githubusercontent.com/26405791/31051959-600e3836-a666-11e7-8a38-90c048b2723d.png)
 
-**Reset Network Card
+**Reset Network Card**
 
 ![reset](https://user-images.githubusercontent.com/26405791/31051960-601519bc-a666-11e7-862e-aadd323cae35.png)
 
 
-**Note -
+**Note -**
 
 1. I won't suggest using this software over wired connections  in offensive mode as it might cause network instability.
 2. Use the offensive mode only with the NICs that supports monitor mode.
