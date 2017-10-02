@@ -2,7 +2,8 @@
 
 ## What's new ?
 
-shARP 2.0 can perform active scan as well as passive scans in both defensive and offensive modes.
+1. shARP_2.0 can perform active scan as well as passive scans in both defensive and offensive modes.
+2. Some small bug fixes to [shARP](https://github.com/europa502/shARP).
 
 **Defensive mode** - Defensive mode protects the end user from the spoofer by disconnecting the user's system from the network. This mode also alerts the user by an audio message as soon as spoofing is detected.
 
